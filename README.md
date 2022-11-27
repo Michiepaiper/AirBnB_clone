@@ -1,7 +1,7 @@
 # AirBnB_clone
 
 ![download](https://user-images.githubusercontent.com/106969102/204155234-dc2ecaeb-17b4-4595-ae5b-286ad9f78199.png)
-![Uploading download.jpg…]()
+
 
 # Description
 
@@ -20,6 +20,10 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 # Commands and Functions
 
 The command interpreter allows us to handle our data requirements with the following commands:
+
+![download](https://user-images.githubusercontent.com/106969102/204155544-81b97881-2f2a-4403-a4c6-57506781464a.jpg)
+![Uploading download.jpg…]()
+
 
 # Command	    Function
 # create	       create a new instance of a class
