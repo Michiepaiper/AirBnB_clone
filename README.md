@@ -26,10 +26,10 @@ The command interpreter allows us to handle our data requirements with the follo
 
 
 # Command	    Function
-# create	-      create a new instance of a class
-# show	  -       show the info of an instance of a class
-# destroy	 -    destroy an instance of a class
-# update	-       update the info of the objects in an instance
-# all	    -     update the info of the objects in an instance
-# quit	  -       exit the console
-# help    -  	 show the help commands
+ create   	-      create a new instance of a class
+ show	      -      show the info of an instance of a class
+ destroy	  -      destroy an instance of a class
+ update	    -      update the info of the objects in an instance
+ all	      -      update the info of the objects in an instance
+ quit	      -      exit the console
+ help       -  	   show the help commands
