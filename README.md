@@ -19,11 +19,11 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 
 The command interpreter allows us to handle our data requirements with the following commands:
 
-# Command	    # Function
- create	       create a new instance of a class
- show	         show the info of an instance of a class
- destroy	     destroy an instance of a class
- update	       update the info of the objects in an instance
- all	         update the info of the objects in an instance
- quit	         exit the console
- help       	 show the help commands
+# Command	    Function
+# create	       create a new instance of a class
+# show	         show the info of an instance of a class
+# destroy	     destroy an instance of a class
+# update	       update the info of the objects in an instance
+# all	         update the info of the objects in an instance
+# quit	         exit the console
+# help       	 show the help commands
