@@ -33,3 +33,7 @@ The command interpreter allows us to handle our data requirements with the follo
  all	      -      update the info of the objects in an instance
  quit	      -      exit the console
  help       -  	   show the help commands
+
+ #AUTHOR
+
+ MICHELLE PIPER
